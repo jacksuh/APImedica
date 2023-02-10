@@ -1,7 +1,7 @@
 ## 💻 Sobre o projeto
 
 Api criada é uma clinica médica ficticia de aplicativo de gestão de consultas.
-Utilizado os conceitos do curso Spring boot da ALURA.
+Utilizado os conceitos do curso Spring boot da ALURA, adicionado algumas outras configurações
 
 ## ⚙️ Funcionalidades
 - [x] CRUD de médicos;
@@ -18,4 +18,6 @@ As seguintes tecnologias foram utilizadas no desenvolvimento da API Rest do proj
 - **[Hibernate](https://hibernate.org)**
 - **[Flyway](https://flywaydb.org)**
 - **[Lombok](https://projectlombok.org)**
+- **[Swagger](https://swagger.io/docs/specification/about/)**
+
 
