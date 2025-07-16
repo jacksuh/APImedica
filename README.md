@@ -97,7 +97,9 @@ mvn test
 Sinta-se livre para clonar, estudar e sugerir melhorias.
 Pull Requests são bem-vindos! 🚀
 
+```bash
 🧑‍💻 Autor
 Jackson Silva dos Santos
 GitHub
 E-mail: jacksonsdss@gmail.com
+```
